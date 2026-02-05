@@ -1,4 +1,8 @@
-## Deadline / 截止日 🕒  
+<div align="center">
+
+# Deadline / 截止日 🕒  
+
+</div>
 
 > **Automatically track things you said you would do, but never did.**  
 > 自动捕捉你在聊天 / 邮件 / 评论里“说过要做、后来忘掉了”的承诺，生成一份可追责的 **Promise Backlog（承诺清单）**。
@@ -443,5 +447,6 @@ TODO: handle edge cases in the billing logic in the next release.
 - 只是在你已经写下的文字里，悄悄帮你记住那些 **“我会做的事”**。  
 
 欢迎你继续在这个基础上扩展 UI、插件、Agent 或团队内部版本，如果你有具体产品方向（B 端 / 个人效率 / 团队透明度），我也可以帮你一起设计更细的交互与功能。 🎯  
+
 
 
