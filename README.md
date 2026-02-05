@@ -455,5 +455,6 @@ TODO: handle edge cases in the billing logic in the next release.
 **Haoze Zheng**
 
 *   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
 
 
