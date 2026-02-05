@@ -460,5 +460,6 @@ TODO: handle edge cases in the billing logic in the next release.
 
 ---
 
+<div align="center">
 
 
