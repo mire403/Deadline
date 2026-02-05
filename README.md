@@ -448,5 +448,8 @@ TODO: handle edge cases in the billing logic in the next release.
 
 欢迎你继续在这个基础上扩展 UI、插件、Agent 或团队内部版本，如果你有具体产品方向（B 端 / 个人效率 / 团队透明度），我也可以帮你一起设计更细的交互与功能。 🎯  
 
+---
+
+## 👤 作者 (Author)
 
 
