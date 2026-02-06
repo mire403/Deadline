@@ -463,8 +463,9 @@ TODO: handle edge cases in the billing logic in the next release.
 <div align="center">
 
 
-**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
 
 <sub>Made by Haoze Zheng. 2026 Deadline.</sub>
 
 </div>
+
